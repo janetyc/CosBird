@@ -1,0 +1,11 @@
+It's a small interative game which can detect ambient sound and change bird's status based on the volume.
+
+I gave a talk on Augest 20th in COSCUP 2011 (http://coscup.org/2011/). COSCUP is the largest annual FLOSS conference organized by local communities in Taiwan.
+
+My talk topic is about "Openframeworks x Mobile." I introduced Openframeworks and show a OF demo on iphone implementation in this conference. In order to show the benefit on OF, I designed a small game which combined "audio input," "audio output," "graphic drawing," "image drawing" and "touch event" features and use COSCUP moscot as actor.
+
+My slides is here. http://www.slideshare.net/janetyc/of-mobile
+
+
+janet
+09/03/2011
